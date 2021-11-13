@@ -1,0 +1,24 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "chat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NIhilth/chat.git"
+  },
+  "author": "joao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NIhilth/chat/issues"
+  },
+  "homepage": "https://github.com/NIhilth/chat#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
